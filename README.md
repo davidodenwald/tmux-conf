@@ -45,12 +45,14 @@ tmux source-file ~/.tmux.conf
 
   * `Control + a` before any command
   * `Control + a` then `?` to bring up list of keyboard shortcuts
-  * `Control + a` then `"` to split window
+  * `Control + a` then `v` to split window vertical
+  * `Control + a` then `b` to split window horizontal
   * `Control + a` then `<Space>` to change pane arrangement
   * `Control + a` then `o` to rotate panes
-  * `Control + a` then `h`, `j`, `k`, `l` to move left, down, up, right. Respectively. (vim hjkl)
+  * `Control + a` then `h`, `j`, `k`, `l` to move left, down, up, right.
   * `Control + a` then `;` to go to last panel
-  * `Control + a` then `e` to load the tmux.copy.conf in which you are able to copy
+  * `Control + a` then `e` to load the tmux.copy.conf in which you are able to copy 
+
 
   Beyond your first window:
 
