@@ -9,7 +9,7 @@ Prefix mapped to Ctrl-A for `screen` users.
 Download:
 
 ```bash
-git clone https://github.com/DopeTeufel/tmux-config.git ~/.tmux
+git clone https://github.com/davidodenwald/tmux-config.git ~/.tmux
 ```
 
   Copy tmux config to home:
